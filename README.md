@@ -1,6 +1,6 @@
 # Shizuku
 
-tradução [Português](/README-PT.MD)
+translation [Português](/README-PT.MD)
 
 ## Background
 
